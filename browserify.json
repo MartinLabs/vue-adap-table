@@ -1,0 +1,18 @@
+{
+    "dist": {
+        "files": {
+            "Store.js": "src/Store.js",
+            "pagination.vue": "src/pagination.vue",
+            "searchfield.vue": "src/searchfield.vue",
+            "th.vue": "src/th.vue"
+        },
+        "options": {
+            "browserifyOptions": {
+                "debug": true
+            },
+            "transform": [
+                "babelify", "vueify"
+            ]
+        }
+    }
+}

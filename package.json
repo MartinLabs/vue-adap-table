@@ -1,0 +1,36 @@
+{
+  "name": "vue-adap-table",
+  "version": "1.0.0",
+  "description": "A Vue Datatable that adapts to any case. You can use as a normal table, with all the good vue things, but with built-in Sort, Search and Pagination",
+  "main": "Store.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinLabs/vue-adap-table.git"
+  },
+  "keywords": [
+    "vue",
+    "table",
+    "datatable"
+  ],
+  "author": "Gil (melanke)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-helper-vue-jsx-merge-props": "^2.0.2",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-vue-jsx": "^3.2.0",
+    "babel-preset-es2015": "^6.0.0",
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.1",
+    "browserify-hmr": "^0.3.1",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "uglify": "^0.1.5",
+    "vueify": "^9.1.0"
+  },
+  "dependencies": {
+    "vue": "^2.1.4"
+  }
+}
