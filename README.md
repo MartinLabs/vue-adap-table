@@ -1,3 +1,5 @@
+# Warning: I don't know how to compile for distribution yet, if you can help me, please open an issue
+
 # vue-adap-table
 A Vue Datatable that adapts to any case. You can use as a normal table, with all the good vue things, but with built-in Sort, Search and Pagination
 
